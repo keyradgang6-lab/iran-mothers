@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "key": {
+    "W": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "W",
+    "W",
+    "W"
+  ],
+  "result": {
+    "id": "irani_tuber:sangak",
+    "count": 2
+  }
+}

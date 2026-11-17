@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "irani_tuber:block/computer_front",
+    "side": "irani_tuber:block/computer_side",
+    "top": "irani_tuber:block/computer_top"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "irani_tuber:item/toman_big_note"
+  }
+}

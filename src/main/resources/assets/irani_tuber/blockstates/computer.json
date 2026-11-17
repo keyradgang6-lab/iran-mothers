@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "irani_tuber:block/computer"
+    },
+    "facing=east": {
+      "model": "irani_tuber:block/computer",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "irani_tuber:block/computer",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "irani_tuber:block/computer",
+      "y": 270
+    }
+  }
+}
